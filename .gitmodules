@@ -1,0 +1,18 @@
+[submodule "util"]
+	path = util
+	url = git@github.com:twitter/util.git
+[submodule "ostrich"]
+	path = ostrich
+	url = git@github.com:twitter/ostrich.git
+[submodule "scrooge"]
+	path = scrooge
+	url = git@github.com:twitter/scrooge.git
+[submodule "finagle"]
+	path = finagle
+	url = git@github.com:twitter/finagle.git
+[submodule "twitter-server"]
+	path = twitter-server
+	url = git@github.com:twitter/twitter-server.git
+[submodule "finatra"]
+	path = finatra
+	url = git@github.com:twitter/finatra.git
